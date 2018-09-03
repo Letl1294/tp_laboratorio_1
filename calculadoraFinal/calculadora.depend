@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1535817579 source:/home/alumno/Escritorio/Clases-Programacion-laboratorio-1/calculadora/calculadora.c
+	<stdio_ext.h>
+	<stdlib.h>
+
+1535804052 
+
+1535817808 source:/home/alumno/Escritorio/Clases-Programacion-laboratorio-1/calculadora/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"calculadora.h"
+
+1535804052 ra.h"
+
+1535817520 /home/alumno/Escritorio/Clases-Programacion-laboratorio-1/calculadora/calculadora.h
+
+1535804052 source:c:\users\casa\desktop\programacion_1_laboratorio_1-master (1)\programacion_1_laboratorio_1-master\calculadora\calculadora.c
+	<stdio_ext.h>
+	<stdlib.h>
+
+1535804052 source:c:\users\casa\desktop\programacion_1_laboratorio_1-master (1)\programacion_1_laboratorio_1-master\calculadora\main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"calculadora.h"
+
+1535804052 c:\users\casa\desktop\programacion_1_laboratorio_1-master (1)\programacion_1_laboratorio_1-master\calculadora\calculadora.h
+
+1535918574 source:/home/lucas/Descargas/programacion_1_laboratorio_1-master/calculadora/calculadora.c
+	<stdio_ext.h>
+	<stdlib.h>
+
+1535918900 source:/home/lucas/Descargas/programacion_1_laboratorio_1-master/calculadora/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"calculadora.h"
+
+1535903447 /home/lucas/Descargas/programacion_1_laboratorio_1-master/calculadora/calculadora.h
+
+1535933507 source:/home/lucas/Descargas/programacion_1_laboratorio_1-master/calculadoraFinal/calculadora.c
+	<stdio_ext.h>
+	<stdlib.h>
+
+1535933507 source:/home/lucas/Descargas/programacion_1_laboratorio_1-master/calculadoraFinal/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"calculadora.h"
+
+1535933507 /home/lucas/Descargas/programacion_1_laboratorio_1-master/calculadoraFinal/calculadora.h
+
