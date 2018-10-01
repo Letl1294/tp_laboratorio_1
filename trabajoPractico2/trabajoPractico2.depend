@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1538417448 source:/home/lucas/trabajoPractico2/trabajoPractico2/empleados.c
+	"empleados.h"
+	"utn.h"
+	<string.h>
+	<stdio_ext.h>
+	<stdlib.h>
+
+1538316769 /home/lucas/trabajoPractico2/trabajoPractico2/empleados.h
+
+1538179193 /home/lucas/trabajoPractico2/trabajoPractico2/utn.h
+
+1538257593 source:/home/lucas/trabajoPractico2/trabajoPractico2/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+	"utn.h"
+
+1538318792 source:/home/lucas/trabajoPractico2/trabajoPractico2/utn.c
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
