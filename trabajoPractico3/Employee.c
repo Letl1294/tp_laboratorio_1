@@ -295,10 +295,10 @@ int Employee_getSueldo(Employee* this,int* sueldo)
 
 /** \brief Ordenamos nombres.
  *
- * \param le pasamos dos punteros de empleado.
- * \param con un if y strcmp comprobamos que los nombres sean igual o el primero mas chico que el segundo.
- * \param dependiendo el caso le paso a retorno un valor.
- * \return retorno.
+ * \param con un if validamos que la linkedlist no sea NULL.
+ * \param con un for recorremos la lista y vamos obteniendo los empleados. Usamos el if para validar que no sean NULL.
+ * \param Si estan cargados llamamos a la funcion ll_sort que va a ordenar la linkedList por el que criterio que le pasemos.
+ * \return 0 si esta bien.
  *
  */
 
@@ -324,6 +324,15 @@ int employee_SortNombre(LinkedList* pArrayListEmployee)
     }
     return retorno;
 }
+
+/** \brief Ordenamos nombres.
+ *
+ * \param le pasamos dos punteros de empleado.
+ * \param con un if y strcmp comprobamos que los nombres sean igual o el primero mas chico que el segundo.
+ * \param dependiendo el caso le paso a retorno un valor.
+ * \return retorno.
+ *
+ */
 
 int employee_criterioSortNombre(void* thisA,void* thisB)
 {
