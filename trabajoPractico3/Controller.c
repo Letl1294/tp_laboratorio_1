@@ -225,7 +225,7 @@ void controller_show(void* empleado)
     Employee_getNombre(empleado,nombre);
     Employee_getHorasTrabajadas(empleado,&horasTrabajadas);
     Employee_getSueldo(empleado,&sueldo);
-    printf("ID: %d - Nombre: %s - horas Trabajadas: %d - Sueldo: %d\n\n",id,nombre,horasTrabajadas,sueldo);
+    printf("ID: %d - Nombre: %s - horas Trabajadas: %d - Sueldo: %d\n",id,nombre,horasTrabajadas,sueldo);
 }
 
 /**
