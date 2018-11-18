@@ -1,0 +1,15 @@
+int controller_loadFromText(char* path , LinkedList* pArrayListEmployee);
+int controller_loadFromBinary(char* path , LinkedList* pArrayListEmployee);
+int controller_addEmployee(LinkedList* pArrayListEmployee);
+int controller_editEmployee(LinkedList* pArrayListEmployee);
+int controller_removeEmployee(LinkedList* pArrayListEmployee,LinkedList* pArrayListEmployee1);
+int controller_ListEmployee(LinkedList* pArrayListEmployee);
+int controller_sortEmployee(LinkedList* pArrayListEmployee);
+int controller_saveAsText(char* path , LinkedList* pArrayListEmployee);
+int controller_saveAsBinary(char* path , LinkedList* pArrayListEmployee);
+int controller_init();
+void controller_show(void* empleado);
+int controller_isEmpty(LinkedList* pArrayListEmployee);
+int controller_contains(LinkedList* pArrayListEmployee);
+int controller_saveSubList(LinkedList* pArraylistEmployee);
+int controller_reincorporar(LinkedList* pArrayLinkedList,LinkedList* pArrayLinkedList1);

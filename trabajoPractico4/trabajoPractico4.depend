@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1542489292 source:/home/lucas/Escritorio/Prueba-master/trabajoPractico4/trabajoPractico4/Controller.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Controller.h"
+	<ctype.h>
+	"utn.h"
+
+1542407185 /home/lucas/Escritorio/Prueba-master/trabajoPractico4/trabajoPractico4/LinkedList.h
+
+1542485886 /home/lucas/Escritorio/Prueba-master/trabajoPractico4/trabajoPractico4/Employee.h
+	"LinkedList.h"
+
+1541520765 /home/lucas/Escritorio/Prueba-master/trabajoPractico4/trabajoPractico4/parser.h
+
+1542485469 /home/lucas/Escritorio/Prueba-master/trabajoPractico4/trabajoPractico4/Controller.h
+
+1541520765 /home/lucas/Escritorio/Prueba-master/trabajoPractico4/trabajoPractico4/utn.h
+
+1542490819 source:/home/lucas/Escritorio/Prueba-master/trabajoPractico4/trabajoPractico4/Employee.c
+	"Employee.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1542482000 source:/home/lucas/Escritorio/Prueba-master/trabajoPractico4/trabajoPractico4/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542482013 source:/home/lucas/Escritorio/Prueba-master/trabajoPractico4/trabajoPractico4/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1542467403 source:/home/lucas/Escritorio/Prueba-master/trabajoPractico4/trabajoPractico4/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542485836 source:/home/lucas/Escritorio/Prueba-master/trabajoPractico4/trabajoPractico4/utn.c
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1542562617 source:/home/lucas/Escritorio/Carpeta nueva/Prueba-master/trabajoPractico4/Controller.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Controller.h"
+	<ctype.h>
+	"utn.h"
+
+1542491567 /home/lucas/Escritorio/Carpeta nueva/Prueba-master/trabajoPractico4/LinkedList.h
+
+1542554557 /home/lucas/Escritorio/Carpeta nueva/Prueba-master/trabajoPractico4/Employee.h
+	"LinkedList.h"
+
+1542491567 /home/lucas/Escritorio/Carpeta nueva/Prueba-master/trabajoPractico4/parser.h
+
+1542491567 /home/lucas/Escritorio/Carpeta nueva/Prueba-master/trabajoPractico4/Controller.h
+
+1542491567 /home/lucas/Escritorio/Carpeta nueva/Prueba-master/trabajoPractico4/utn.h
+
+1542562981 source:/home/lucas/Escritorio/Carpeta nueva/Prueba-master/trabajoPractico4/Employee.c
+	"Employee.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1542491567 source:/home/lucas/Escritorio/Carpeta nueva/Prueba-master/trabajoPractico4/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542491567 source:/home/lucas/Escritorio/Carpeta nueva/Prueba-master/trabajoPractico4/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1542491567 source:/home/lucas/Escritorio/Carpeta nueva/Prueba-master/trabajoPractico4/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542491567 source:/home/lucas/Escritorio/Carpeta nueva/Prueba-master/trabajoPractico4/utn.c
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
